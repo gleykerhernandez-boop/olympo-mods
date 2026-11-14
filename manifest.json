@@ -89,7 +89,7 @@
     },
     {
       "path": "olympo_intro/intro.zip",
-      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/olympo_intro/intro.zip",
+      "url": "https://github.com/gleykerhernandez-boop/olympo-mods/releases/download/intro-v1/intro.zip",
       "sha1": "8dcb6118c9a5e48a0db9e4de3b8752ff885e195a",
       "size": 81384475
     },

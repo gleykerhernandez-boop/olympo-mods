@@ -1,10 +1,16 @@
 {
-  "version": "2026-11-13T23:45:41.704Z",
+  "version": "2026-11-14T00:51:49.696Z",
   "loaderVersion": "21.1.264",
   "clean": [
     "mods"
   ],
   "files": [
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "size": 121559
+    },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/geckolib-neoforge-1.21.1-4.9.3.jar",

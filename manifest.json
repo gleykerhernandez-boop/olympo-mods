@@ -4,6 +4,22 @@
   "clean": [
     "mods"
   ],
+  "server": {
+    "host": "cairo-plenary.tun.ply.gg",
+    "port": 25565
+  },
+  "launcher": {
+    "version": "0.2.0",
+    "url": "https://github.com/gleykerhernandez-boop/olympo-mods/releases/latest"
+  },
+  "maintenance": "",
+  "news": [
+    {
+      "title": "Estreno de la serie",
+      "date": "2026-11-13",
+      "text": "El Olimpo abre sus puertas. Elige tu skin divina en MI PERSONAJE."
+    }
+  ],
   "files": [
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",

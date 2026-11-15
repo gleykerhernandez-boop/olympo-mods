@@ -100,7 +100,7 @@
     },
     {
       "path": "olympo_intro/intro.zip",
-      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/olympo_intro/intro.zip",
+      "url": "https://github.com/gleykerhernandez-boop/olympo-mods/releases/download/intro-v1/intro.zip",
       "sha1": "8dcb6118c9a5e48a0db9e4de3b8752ff885e195a",
       "size": 81384475
     },
@@ -109,12 +109,6 @@
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/resourcepacks/OLYMPO_DIVINE_REALMS_RP.zip",
       "sha1": "066c05c14bcb08db50a73d5d15f973ed690dedd7",
       "size": 52508
-    },
-    {
-      "path": "resourcepacks/SHA1_resourcepack.txt",
-      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/resourcepacks/SHA1_resourcepack.txt",
-      "sha1": "d29b971f6be5ed29ffc6de694ae0a18a6750c952",
-      "size": 70
     }
   ]
 }

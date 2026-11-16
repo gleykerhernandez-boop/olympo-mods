@@ -26,12 +26,24 @@
       "text": "El Olimpo abre sus puertas. Elige tu skin divina en MI PERSONAJE."
     }
   ],
-  "version": "2026-11-15T23:40:00.159Z",
+  "version": "2026-11-16T08:03:06.322Z",
   "loaderVersion": "21.1.264",
   "clean": [
     "mods"
   ],
   "files": [
+    {
+      "path": "mods/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/Chunky-NeoForge-1.4.23.jar",
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+      "size": 340572
+    },
+    {
+      "path": "mods/Cinematic-Interaction-NeoForge-1.21.1-0.18.30.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/Cinematic-Interaction-NeoForge-1.21.1-0.18.30.jar",
+      "sha1": "6ce24a0d4ebd7bd34e2c41ed5e3bea6d34fe58b6",
+      "size": 1302874
+    },
     {
       "path": "mods/DramaticDoors-NeoQuiFab-1.21.1-3.3.3.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/DramaticDoors-NeoQuiFab-1.21.1-3.3.3.jar",
@@ -81,6 +93,12 @@
       "size": 507568
     },
     {
+      "path": "mods/spark-1.10.124-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+      "size": 3642581
+    },
+    {
       "path": "mods/voicechat-neoforge-1.21.1-2.6.27.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/voicechat-neoforge-1.21.1-2.6.27.jar",
       "sha1": "8aded3a22614a8e1641973623e7817dccea513fa",
@@ -100,7 +118,7 @@
     },
     {
       "path": "olympo_intro/intro.zip",
-      "url": "https://github.com/gleykerhernandez-boop/olympo-mods/releases/download/intro-v1/intro.zip",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/olympo_intro/intro.zip",
       "sha1": "8dcb6118c9a5e48a0db9e4de3b8752ff885e195a",
       "size": 81384475
     },
@@ -109,6 +127,12 @@
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/resourcepacks/OLYMPO_DIVINE_REALMS_RP.zip",
       "sha1": "066c05c14bcb08db50a73d5d15f973ed690dedd7",
       "size": 52508
+    },
+    {
+      "path": "resourcepacks/SHA1_resourcepack.txt",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/resourcepacks/SHA1_resourcepack.txt",
+      "sha1": "d29b971f6be5ed29ffc6de694ae0a18a6750c952",
+      "size": 70
     }
   ]
 }

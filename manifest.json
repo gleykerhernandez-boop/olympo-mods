@@ -26,7 +26,7 @@
       "text": "El Olimpo abre sus puertas. Elige tu skin divina en MI PERSONAJE."
     }
   ],
-  "version": "2026-11-16T08:03:06.322Z",
+  "version": "2026-11-16T08:10:33.786Z",
   "loaderVersion": "21.1.264",
   "clean": [
     "mods"
@@ -127,12 +127,6 @@
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/resourcepacks/OLYMPO_DIVINE_REALMS_RP.zip",
       "sha1": "066c05c14bcb08db50a73d5d15f973ed690dedd7",
       "size": 52508
-    },
-    {
-      "path": "resourcepacks/SHA1_resourcepack.txt",
-      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/resourcepacks/SHA1_resourcepack.txt",
-      "sha1": "d29b971f6be5ed29ffc6de694ae0a18a6750c952",
-      "size": 70
     }
   ]
 }

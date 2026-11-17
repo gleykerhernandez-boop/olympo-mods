@@ -26,7 +26,7 @@
       "text": "El Olimpo abre sus puertas. Elige tu skin divina en MI PERSONAJE."
     }
   ],
-  "version": "2026-11-17T05:28:02.547Z",
+  "version": "2026-11-17T06:01:22.379Z",
   "loaderVersion": "21.1.264",
   "clean": [
     "mods"
@@ -51,10 +51,10 @@
       "size": 14310521
     },
     {
-      "path": "mods/dreamdisplays-neoforge-1.21.1-1.9.6.jar",
-      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/dreamdisplays-neoforge-1.21.1-1.9.6.jar",
-      "sha1": "3698833775824d3cde62d2e8ceaefc7e97579de1",
-      "size": 26147149
+      "path": "mods/dreamdisplays-neoforge-1.21.1-1.10.9.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/dreamdisplays-neoforge-1.21.1-1.10.9.jar",
+      "sha1": "b77e6c4107f6520a1cbc47fee55ee997a42b90cc",
+      "size": 26553600
     },
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",

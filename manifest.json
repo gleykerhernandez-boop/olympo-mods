@@ -52,7 +52,7 @@
     },
     {
       "path": "mods/dreamdisplays-neoforge-1.21.1-1.10.9.jar",
-      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/dreamdisplays-neoforge-1.21.1-1.10.9.jar",
+      "url": "https://github.com/gleykerhernandez-boop/olympo-mods/releases/download/mods-v1/dreamdisplays-neoforge-1.21.1-1.10.9.jar",
       "sha1": "b77e6c4107f6520a1cbc47fee55ee997a42b90cc",
       "size": 26553600
     },

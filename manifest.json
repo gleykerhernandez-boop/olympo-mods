@@ -26,7 +26,7 @@
       "text": "El Olimpo abre sus puertas. Elige tu skin divina en MI PERSONAJE."
     }
   ],
-  "version": "2026-11-18T07:45:18.920Z",
+  "version": "2026-11-18T20:14:46.055Z",
   "loaderVersion": "21.1.264",
   "clean": [
     "mods"
@@ -57,6 +57,12 @@
       "size": 26553600
     },
     {
+      "path": "mods/drinkbeer-refill-1.21.1-neoforge-1.4.2+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/drinkbeer-refill-1.21.1-neoforge-1.4.2%2Bneoforge.jar",
+      "sha1": "c776264c53692a055ee091ef026dfe3f76b71ba0",
+      "size": 1682821
+    },
+    {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
@@ -67,6 +73,12 @@
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
       "size": 634531
+    },
+    {
+      "path": "mods/letsdo-furniture-neoforge-1.1.10.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/letsdo-furniture-neoforge-1.1.10.jar",
+      "sha1": "c81278d7abd8adb4abc46b612a0d27569f41ee24",
+      "size": 4658652
     },
     {
       "path": "mods/lodestone-1.21.1-1.8.2.jar",
@@ -81,6 +93,12 @@
       "size": 614138
     },
     {
+      "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "sha1": "9f1ba483216aebce1ee6185601231158684f5de8",
+      "size": 211972
+    },
+    {
       "path": "mods/olympo_intro_system-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/olympo_intro_system-1.0.0.jar",
       "sha1": "e0bd2c097ce45c34088dc4e01e67e2b6aa69d138",
@@ -89,8 +107,8 @@
     {
       "path": "mods/olympo-0.1.0.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/olympo-0.1.0.jar",
-      "sha1": "d668bb3ff9d72605ce79220f2238167f49463223",
-      "size": 3404220
+      "sha1": "a560ed77dfe391e54591957894e8c35fa9f8c2a2",
+      "size": 3505009
     },
     {
       "path": "mods/Pehkui-3.8.3+1.21-neoforge.jar",

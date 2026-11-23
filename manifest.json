@@ -26,7 +26,7 @@
       "text": "El Olimpo abre sus puertas. Elige tu skin divina en MI PERSONAJE."
     }
   ],
-  "version": "2026-11-22T01:56:01.045Z",
+  "version": "2026-11-23T03:28:17.547Z",
   "loaderVersion": "21.1.264",
   "clean": [
     "mods"
@@ -119,8 +119,8 @@
     {
       "path": "mods/olympo-0.1.0.jar",
       "url": "https://raw.githubusercontent.com/gleykerhernandez-boop/olympo-mods/main/cliente/mods/olympo-0.1.0.jar",
-      "sha1": "35520b5d98593be563351909eac28cd15b1d94bd",
-      "size": 3701188
+      "sha1": "b598ef0fa3b2d63e7de1ce33a0bf32abff4b7a45",
+      "size": 6078927
     },
     {
       "path": "mods/Pehkui-3.8.3+1.21-neoforge.jar",
